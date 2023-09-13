@@ -1,2 +1,2 @@
-# unity-hfsm
-A simple implementation of a unity hierarchical statemachine
+# Unity HFSM
+A simple implementation of a hierarchical statemachine in Unity
